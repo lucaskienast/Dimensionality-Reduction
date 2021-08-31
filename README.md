@@ -38,6 +38,7 @@ Examples include:
 
 - Isomap Embedding
 - Locally Linear Embedding (LLE)
+- Modified LLE
 - Spectral Embedding
 - Kohonen Self-Organizing Map (SOM)
 - Sammons Mapping
