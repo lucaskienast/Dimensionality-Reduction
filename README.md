@@ -57,7 +57,23 @@ Examples include:
 
 ## References
 
+Brownlee, J. (2020) A Gentle Introduction to LSTM Autoencoders. Available at: https://machinelearningmastery.com/lstm-autoencoders/ (Accessed: 31 August 2021)
+
+Brownlee, J. (2019) A Gentle Introduction to Matrix Factorization for Machine Learning. Available at: https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ (Accessed: 31 August 2021)
+
+Brownlee, J. (2019) How to Calculate Principal Component Analysis (PCA) from Scratch in Python. Available at: https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/ (Accessed: 31 August 2021)
+
+Brownlee, J. (2019) How to Calculate the SVD from Scratch with Python. Available at: https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/ (Accessed: 31 August 2021)
+
 Brownlee, J. (2020) Introduction to Dimensionality Reduction for Machine Learning. Available at: https://machinelearningmastery.com/dimensionality-reduction-for-machine-learning/ (Accessed: 31 August 2021)
+
+Brownlee, J. (2020) Linear Discriminant Analysis for Dimensionality Reduction in Python. Available at: https://machinelearningmastery.com/linear-discriminant-analysis-for-dimensionality-reduction-in-python/ (Accessed: 31 August 2021)
+
+Brownlee, J. (2020) Principal Component Analysis for Dimensionality Reduction in Python. Available at: https://machinelearningmastery.com/principal-components-analysis-for-dimensionality-reduction-in-python/ (Accessed: 31 August 2021)
+
+Brownlee, J. (2020) Singular Value Decomposition for Dimensionality Reduction in Python. https://machinelearningmastery.com/singular-value-decomposition-for-dimensionality-reduction-in-python/ (Accessed: 31 August 2021)
+
+Brownlee, J. (2020) 6 Dimensionality Reduction Algorithms With Python. Available at: https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/ (Accessed: 31 August 2021)
 
 Krohn, J. (2021) Mathematical Foundations of Machine Learning. Available at: https://github.com/jonkrohn/ML-foundations (Accessed: 31 August 2021)
 
