@@ -4,7 +4,7 @@ The number of input variables or features for a dataset is referred to as its di
 Some of the main techniques for dimensionality reduction are:
 
 - Feature selection methods
-- Matrix factorization
+- Matrix factorization/decomposition
 - Manifold learning
 - Autoencoders
 
