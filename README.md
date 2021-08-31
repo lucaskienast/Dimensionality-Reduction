@@ -1,4 +1,4 @@
-# Dimensionality Reduction Models
+# Dimensionality Reduction
 The number of input variables or features for a dataset is referred to as its dimensionality. Large numbers of input features can cause poor performance for machine learning algorithms. Having a large number of dimensions in the feature space can mean that the volume of that space is very large, and in turn, the points that we have in that space (rows of data) often represent a small and non-representative sample. Dimensionality reduction refers to techniques that reduce the number of input variables in a dataset. These techniques can be used in applied machine learning to simplify a classification or regression dataset in order to better fit a predictive model. It might be performed after data cleaning and data scaling and before training a predictive model. As such, any dimensionality reduction performed on training data must also be performed on new data.
 
 Some of the main techniques for dimensionality reduction are:
