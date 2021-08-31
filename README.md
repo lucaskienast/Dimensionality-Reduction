@@ -8,6 +8,13 @@ Some of the main techniques for dimensionality reduction are:
 - Manifold learning
 - Autoencoders
 
+## Installation
+Use `git clone` to get a copy of this repository.
+```
+$ git clone https://github.com/lucaskienast/Dimensionality-Reduction.git
+$ cd Dimensionality-Reduction
+```
+
 ## Feature Selection 
 Perhaps the most common methods are so-called feature selection techniques that use scoring or statistical methods to select which features to keep and which features to delete. Two main classes of feature selection techniques include wrapper methods and filter methods. Wrapper methods, as the name suggests, wrap a machine learning model, fitting and evaluating the model with different subsets of input features and selecting the subset the results in the best model performance. RFE is an example of a wrapper feature selection method. Filter methods use scoring methods, like correlation between the feature and the target variable, to select a subset of input features that are most predictive. 
 
