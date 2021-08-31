@@ -8,6 +8,19 @@ Some of the main techniques for dimensionality reduction are:
 - Manifold learning
 - Autoencoders
 
+## Use Cases
+
+Smaller datasets that are dense (few zero values):
+- Principal Component Analysis (PCA)
+
+Sparse data (data with many zero values):
+- Singular Value Decomposition (SVD)
+
+Larger datasets with multiple classes:
+- Linear Discriminant Analysis (LDA)
+
+
+
 ## Feature Selection 
 Perhaps the most common methods are so-called feature selection techniques that use scoring or statistical methods to select which features to keep and which features to delete. Two main classes of feature selection techniques include wrapper methods and filter methods. Wrapper methods, as the name suggests, wrap a machine learning model, fitting and evaluating the model with different subsets of input features and selecting the subset the results in the best model performance. RFE is an example of a wrapper feature selection method. Filter methods use scoring methods, like correlation between the feature and the target variable, to select a subset of input features that are most predictive. 
 
@@ -76,9 +89,11 @@ Brownlee, J. (2020) Linear Discriminant Analysis for Dimensionality Reduction in
 
 Brownlee, J. (2020) Principal Component Analysis for Dimensionality Reduction in Python. Available at: https://machinelearningmastery.com/principal-components-analysis-for-dimensionality-reduction-in-python/ (Accessed: 31 August 2021)
 
-Brownlee, J. (2020) Singular Value Decomposition for Dimensionality Reduction in Python. https://machinelearningmastery.com/singular-value-decomposition-for-dimensionality-reduction-in-python/ (Accessed: 31 August 2021)
+Brownlee, J. (2020) Singular Value Decomposition for Dimensionality Reduction in Python. Available at: https://machinelearningmastery.com/singular-value-decomposition-for-dimensionality-reduction-in-python/ (Accessed: 31 August 2021)
 
 Brownlee, J. (2020) 6 Dimensionality Reduction Algorithms With Python. Available at: https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/ (Accessed: 31 August 2021)
+
+Kapri, A. (2020) PCA vs LDA vs T-SNE — Let’s Understand the difference between them. Available at: https://medium.com/analytics-vidhya/pca-vs-lda-vs-t-sne-lets-understand-the-difference-between-them-22fa6b9be9d0 (Accessed: 31 August 2021)
 
 Krohn, J. (2021) Mathematical Foundations of Machine Learning. Available at: https://github.com/jonkrohn/ML-foundations (Accessed: 31 August 2021)
 
@@ -89,5 +104,7 @@ Prakash, A. (2020) Different Types of Autoencoders. Available at: https://iq.ope
 Sharma, P. (2018) The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes). Available at: https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/ (Accessed: 31 August 2021)
 
 Silipo, R. (2015) Seven Techniques for Data Dimensionality Reduction. Available at: https://www.kdnuggets.com/2015/05/7-methods-data-dimensionality-reduction.html (Accessed: 31 August 2021)
+
+Thaenraj, P. (2021) PCA, LDA, and SVD: Model Tuning Through Feature Reduction for Transportation POI Classification. Available at: https://towardsdatascience.com/pca-lda-and-svd-model-tuning-through-feature-reduction-for-transportation-poi-classification-8d20501ee255 (Accessed: 31 August 2021)
 
 Udacity (2021) Artificial Intelligence for Trading. Available at: https://www.udacity.com/course/ai-for-trading--nd880 (Accessed: 31 August 2021)
