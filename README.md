@@ -37,7 +37,7 @@ Techniques from high-dimensionality statistics can also be used for dimensionali
 Examples include:
 
 - Isomap Embedding
-- Locally Linear Embedding
+- Locally Linear Embedding (LLE)
 - Spectral Embedding
 - Kohonen Self-Organizing Map (SOM)
 - Sammons Mapping
