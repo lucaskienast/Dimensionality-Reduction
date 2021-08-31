@@ -29,6 +29,7 @@ Examples include:
 
 - Singular Value Decomposition (SVD)
 - Principal Component Analysis (PCA)
+- Linear Discriminant Analysis (LDA)
 
 ## Manifold Learning
 Techniques from high-dimensionality statistics can also be used for dimensionality reduction. These techniques are sometimes referred to as “manifold learning” and are used to create a low-dimensional projection of high-dimensional data, often for the purposes of data visualization. The projection is designed to both create a low-dimensional representation of the dataset whilst best preserving the salient structure or relationships in the data. The features in the projection often have little relationship with the original columns, e.g. they do not have column names, which can be confusing to beginners. Typically, manifold learning methods assume that all input features have the same scale or distribution. This suggests that it is good practice to either normalize or standardize data prior to using these methods if the input variables have differing scales or units. 
