@@ -27,7 +27,6 @@ Techniques from linear algebra can be used for dimensionality reduction. Specifi
 
 Examples include:
 
-- Eigendecomposition
 - Singular Value Decomposition (SVD)
 - Principal Component Analysis (PCA)
 
