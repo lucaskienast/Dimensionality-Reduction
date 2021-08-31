@@ -61,6 +61,8 @@ Brownlee, J. (2020) A Gentle Introduction to LSTM Autoencoders. Available at: ht
 
 Brownlee, J. (2019) A Gentle Introduction to Matrix Factorization for Machine Learning. Available at: https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ (Accessed: 31 August 2021)
 
+Brownlee, J. (2019) Gentle Introduction to Eigenvalues and Eigenvectors for Machine Learning. Available at: https://machinelearningmastery.com/introduction-to-eigendecomposition-eigenvalues-and-eigenvectors/ (Accessed: 31 August 2021)
+
 Brownlee, J. (2019) How to Calculate Principal Component Analysis (PCA) from Scratch in Python. Available at: https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/ (Accessed: 31 August 2021)
 
 Brownlee, J. (2019) How to Calculate the SVD from Scratch with Python. Available at: https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/ (Accessed: 31 August 2021)
